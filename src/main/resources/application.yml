@@ -1,0 +1,4 @@
+spring:
+  artemis:
+    password: simetraehcapa
+    user: artemis
